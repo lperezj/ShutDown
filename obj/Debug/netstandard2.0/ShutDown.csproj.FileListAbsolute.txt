@@ -1,0 +1,15 @@
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\bin\Debug\netstandard2.0\ShutDown.deps.json
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\bin\Debug\netstandard2.0\ShutDown.dll
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\bin\Debug\netstandard2.0\ShutDown.pdb
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.csproj.AssemblyReference.cache
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.AssemblyInfoInputs.cache
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.AssemblyInfo.cs
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.csproj.CoreCompileInputs.cache
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.dll
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\refint\ShutDown.dll
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ShutDown.pdb
+C:\PROJECTOS\GitHub\ShutDown\ShutDown\ShutDown\obj\Debug\netstandard2.0\ref\ShutDown.dll
